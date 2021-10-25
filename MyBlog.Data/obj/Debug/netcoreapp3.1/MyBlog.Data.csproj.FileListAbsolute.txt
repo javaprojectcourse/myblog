@@ -1,0 +1,10 @@
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Data\bin\Debug\netcoreapp3.1\MyBlog.Data.deps.json
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Data\bin\Debug\netcoreapp3.1\MyBlog.Data.dll
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Data\bin\Debug\netcoreapp3.1\MyBlog.Data.pdb
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Data\obj\Debug\netcoreapp3.1\MyBlog.Data.csproj.AssemblyReference.cache
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Data\obj\Debug\netcoreapp3.1\MyBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Data\obj\Debug\netcoreapp3.1\MyBlog.Data.AssemblyInfoInputs.cache
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Data\obj\Debug\netcoreapp3.1\MyBlog.Data.AssemblyInfo.cs
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Data\obj\Debug\netcoreapp3.1\MyBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Data\obj\Debug\netcoreapp3.1\MyBlog.Data.dll
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Data\obj\Debug\netcoreapp3.1\MyBlog.Data.pdb

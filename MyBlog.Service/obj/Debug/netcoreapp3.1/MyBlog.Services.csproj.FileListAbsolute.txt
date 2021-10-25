@@ -1,0 +1,13 @@
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Services.deps.json
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Services.dll
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Services.pdb
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Data.dll
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Data.pdb
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Services.csproj.AssemblyReference.cache
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Services.AssemblyInfoInputs.cache
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Services.AssemblyInfo.cs
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Services.csproj.CoreCompileInputs.cache
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Services.csproj.CopyComplete
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Services.dll
+C:\Users\OnLine\source\repos\MyBlog\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Services.pdb
